@@ -8,6 +8,12 @@
   padding-bottom: 13%;
   height: 1000px;
 }
+@media (max-width: 768px) {
+  .banner {
+    background: url(IMG/cloth.png);
+    background-size: cover;
+  }
+}
 .prc {
   color: rgb(31, 196, 25);
 }
