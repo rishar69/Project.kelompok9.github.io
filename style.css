@@ -66,3 +66,12 @@ svg {
     display: none;
   }
 }
+@media (max-width: 768px) {
+  .crsl {
+    width: 100%;
+  }
+}
+.crd h5,
+p {
+  color: black;
+}
